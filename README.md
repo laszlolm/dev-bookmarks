@@ -509,7 +509,7 @@ But my collection is also different in many ways
 >Javascript Cookies (YAY)
 
 >[Select2](https://select2.github.io/)<br>
->Don't ever do <select> again that way!
+>Don't ever do \<select\> again that way!
 
 >[hello.js](http://adodson.com/hello.js/)<br>
 >JS API for OAuth2 social services
