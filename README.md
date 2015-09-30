@@ -592,6 +592,9 @@ But my collection is also different in many ways
 >[Isso](http://posativ.org/isso/)<br>
 >The open-source alternative for Disqus
 
+>[Clipboard.js](http://zenorocha.github.io/clipboard.js/)<br>
+>2kb pure JavaScript library for managing your user's clipboard.
+
 
 I hope I could help :) 
 If you think I missed something, feel free to add! Later I will categorize the list so other programming languages can come too!
