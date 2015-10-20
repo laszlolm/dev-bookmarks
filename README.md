@@ -14,7 +14,7 @@ But my collection is also different in many ways
 ------------
 
 >[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
->Basically the page that helped me stlye this file
+>Basically the page that helped me style this file
 
 >[CodeAnywhere](http://codeanywhere.com/)<br>
 >The IDE I use for almost all my projects. It is amazing! Try it for free if you don't believe it.
