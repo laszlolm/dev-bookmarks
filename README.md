@@ -595,6 +595,45 @@ But my collection is also different in many ways
 >[Clipboard.js](http://zenorocha.github.io/clipboard.js/)<br>
 >2kb pure JavaScript library for managing your user's clipboard.
 
+>[Glimpse](http://getglimpse.com/)<br>
+>An open-source tool roviding real time diagnostics & insights to the fingertips of hundreds of thousands of developers daily.
+
+>[Pixate](http://www.pixate.com/)<br>
+>An amazing prototyping tool!
+
+>[Privacy Policy Generator](https://termsfeed.com/privacy-policy/generator/)<br>
+>I guess the title tells it all. It is for everyone and anyone!
+
+>[xip.io](http://xip.io/)<br>
+>A wildcard DNS for any IP. Good for services limited to domain names like Google Developer platform auth
+
+>[FTPLoy](http://ftploy.com/)<br>
+>An amazing thing I started to use just days ago. Deploy git and your modern workflow to old, laggy FTP servers
+
+>[Hiawatha](https://www.hiawatha-webserver.org/)<br>
+>An amazingly secure, blazing-fast web server that is more advanced than your current Apache or Nginx stack.
+
+>[PressFarm](https://press.farm/)<br>
+>Find journalists to feature your product on the homepage of any large magazine!
+
+>[Conferize](https://www.conferize.com/)<br>
+>Create conference + Event pages in moments.
+
+>[Telepat](http://telepat.io/)<br>
+>Real-time open source database. Or unicorn. Either way: AMAZING!
+
+>[Raumrot](http://www.raumrot.com/)<br>
+>Free commercial photos that you can include in any of your projects
+
+>[Infogram](https://infogr.am/)<br>
+>Create amazing infograms for anything. [FREE plan]
+
+>[ThePatternLibrary](http://thepatternlibrary.com/)<br>
+>A pattern library for any of your projects!
+
+>[MIT CS Courses](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)<br>
+>MIT played cool and uploaded almost all it's lectures online so you can learn from one of the best universities in the world!
+
 
 I hope I could help :) 
 If you think I missed something, feel free to add! Later I will categorize the list so other programming languages can come too!
