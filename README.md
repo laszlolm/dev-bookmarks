@@ -28,8 +28,8 @@ But my collection is also different in many ways
 >[emojify.js](http://hassankhan.me/emojify.js/)<br>
 >Easily embed emoji-s on your website / blog!
 
->[Meat!](https://getmeat.io/)<br>
->A Virtual Server that hosts your git projects, enable team collaboration, online live development, deployments, CI and many many more. It can come really handy for individuals and teams!
+>[BuddyWorks](https://buddy.works/)<br>
+>A cloud and self-hosted CI server for GitHub, Bitbucket, and GitLab, with Docker-based builds and tests, automatic deployments, SSH scripts, website monitoring, and many more. It can come really handy for individuals and teams!
 
 >[SuperShare](http://supershare1000.com/)<br>
 >Easily embeddable sharing widget for your website, like on Mashable.
